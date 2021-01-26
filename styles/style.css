@@ -368,12 +368,12 @@
 }
 
 .card-HTML-services {
+  background-color: white;
   font-size: 16px;
   display: flex;
   flex-direction: column;
   width: 30%;
   align-items: center;
-  background-color: purple;
   border-radius: 10px;
   box-shadow: 0 1px 5px rgb(104, 103, 103);
   margin: 10px 0px;
@@ -381,11 +381,11 @@
 }
 
 .card-CSS-services {
+  background-color: white;
   display: flex;
   flex-direction: column;
   width: 30%;
   align-items: center;
-  background-color: #ffd15c;
   border-radius: 10px;
   box-shadow: 0 1px 5px rgb(104, 103, 103);
   margin: 10px 52px;
@@ -393,11 +393,11 @@
 }
 
 .card-UX-services {
+  background-color: white;
   display: flex;
   flex-direction: column;
   width: 30%;
   align-items: center;
-  background-color: red;
   border-radius: 10px;
   box-shadow: 0 1px 5px rgb(104, 103, 103);
   margin: 10px 0px; 
@@ -413,11 +413,11 @@
 }
 
 .card-PYTHON-services {
+  background-color: white;
   display: flex;
   flex-direction: column;
   width: 30%;
   align-items: center;
-  background-color: green;
   border-radius: 10px;
   box-shadow: 0 1px 5px rgb(104, 103, 103);
   margin: 10px 0;
@@ -425,11 +425,11 @@
 }
 
 .card-PHP-services {
+ background-color: white;
  display: flex;
  flex-direction: column;
  width: 30%;
  align-items: center;
- background-color: plum;
  border-radius: 10px;
  box-shadow: 0 1px 5px rgb(104, 103, 103);
  margin: 10px 52px;
@@ -437,11 +437,11 @@
 }
 
 .card-SQL-services {
+  background-color: white;
   display: flex;
   flex-direction: column;
   width: 30%;
   align-items: center;
-  background-color: brown;
   border-radius: 10px;
   box-shadow: 0 1px 5px rgb(104, 103, 103);
   margin: 10px 0;
